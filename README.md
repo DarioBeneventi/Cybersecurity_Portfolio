@@ -1,6 +1,6 @@
 # Cybersecurity_Portfolio
 
-Welcome to my beginner's cybersecurity portfolio! Here, I'm on a journey to develop my expertise in the exciting and vital field of cybersecurity.
+Welcome to my cybersecurity portfolio! Here, I'm on a journey to develop my expertise in the exciting and vital field of cybersecurity.
 
 This portfolio showcases my early steps in identifying vulnerabilities, learning about security measures, and my commitment to mastering cybersecurity skills. While I may not have certifications yet, I'm actively working towards acquiring them.
 
