@@ -9,3 +9,5 @@ Through this portfolio, I aim to share my progress and document my learning expe
 I'm dedicated to continuous growth, and I'm eager to collaborate and learn from experienced professionals in the field. While I'm just starting, I'm passionate about contributing to the ever-evolving discipline of cybersecurity.
 
 Feel free to explore my journey, and let's connect to discuss how I can develop and contribute to the cybersecurity community.
+
+Other repositories that i created and could be usefull 
