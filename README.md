@@ -12,6 +12,6 @@ Feel free to explore my journey, and let's connect to discuss how I can develop 
 
 Other repositories that i created and should be included in my cybersecurity portfolio:
 
-[OSCP Preparation](https://github.com/DarioBeneventi/OSCP_Preparation)
-[Offensive Infrastructure as Code](https://github.com/DarioBeneventi/Offensive_Infrastructure_As_Code)
-[TryHackMe Machines](https://github.com/DarioBeneventi/TryHackMe_Machines)
+1. [OSCP Preparation](https://github.com/DarioBeneventi/OSCP_Preparation)
+2. [Offensive Infrastructure as Code](https://github.com/DarioBeneventi/Offensive_Infrastructure_As_Code)
+3. [TryHackMe Machines](https://github.com/DarioBeneventi/TryHackMe_Machines)
