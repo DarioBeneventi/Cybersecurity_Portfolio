@@ -10,4 +10,8 @@ I'm dedicated to continuous growth, and I'm eager to collaborate and learn from 
 
 Feel free to explore my journey, and let's connect to discuss how I can develop and contribute to the cybersecurity community.
 
-Other repositories that i created and could be usefull 
+Other repositories that i created and should be included in my cybersecurity portfolio:
+
+[OSCP Preparation](https://github.com/DarioBeneventi/OSCP_Preparation)
+[Offensive Infrastructure as Code](https://github.com/DarioBeneventi/Offensive_Infrastructure_As_Code)
+[TryHackMe Machines](https://github.com/DarioBeneventi/TryHackMe_Machines)
