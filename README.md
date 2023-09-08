@@ -4,7 +4,7 @@ Welcome to my cybersecurity portfolio! Here, I'm on a journey to develop my expe
 
 This portfolio showcases my early steps in identifying vulnerabilities, learning about security measures, and my commitment to mastering cybersecurity skills. While I may not have certifications yet, I'm actively working towards acquiring them.
 
-Through this portfolio, I aim to share my progress and document my learning experiences. As I explore the world of cybersecurity, I'm gaining hands-on knowledge and building a foundation in areas like network security, incident response, and risk management.
+Through this portfolio, I aim to share my progress and document my learning experiences. As I explore the world of cybersecurity, I'm gaining hands-on knowledge and building a foundation in areas like penetration testing, network security, incident response, and risk management.
 
 I'm dedicated to continuous growth, and I'm eager to collaborate and learn from experienced professionals in the field. While I'm just starting, I'm passionate about contributing to the ever-evolving discipline of cybersecurity.
 
