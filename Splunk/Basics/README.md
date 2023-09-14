@@ -4,6 +4,8 @@
 
 ## Splunk's Different Components
 
+![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image1.png?raw=true)
+
 ### Splunk Forwarder
 
 Splunk Forwarder is a lightweight agent designed to be installed on endpoints that need monitoring. Its primary task is to collect data and send it to the central Splunk instance. Splunk Forwarders can collect data from various sources, including:
