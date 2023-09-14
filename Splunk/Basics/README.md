@@ -4,6 +4,8 @@
 
 ## Splunk's Different Components
 
+![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image1.png?raw=true)
+
 ### Splunk Forwarder
 
 Splunk Forwarder is a lightweight agent designed to be installed on endpoints that need monitoring. Its primary task is to collect data and send it to the central Splunk instance. Splunk Forwarders can collect data from various sources, including:
@@ -23,6 +25,8 @@ The Search Head is the central place within Splunk's Search & Reporting App wher
 
 Splunk's Search & Reporting App includes features such as analytics, datasets, reports, alerts, and dashboards, providing a comprehensive platform for data analysis and visualization.
 
+![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image2.png?raw=true)
+
 ### Splunk Dashboard
 
 The Splunk Dashboard serves as the default home screen for users. It features the "Splunk Bar," where system-level messages (Messages), configuration options (Settings), job progress tracking (Activity), tutorials and documentation (Help), and a powerful search feature (Find) are available.
@@ -31,8 +35,30 @@ On the left side of the Dashboard, you'll find the "Apps Panel," listing the app
 
 In the middle of the Dashboard, you'll find the "Explore Splunk" section, which provides quick links to add data to your Splunk instance, install new Splunk apps, and access Splunk's documentation.
 
+![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image3.png?raw=true)
+
 ## Adding Data to Splunk
 
 To begin using Splunk effectively, you can start by adding data to your instance. You can do this by clicking on the "Add Data" option in the middle of your Dashboard. This process allows you to configure data inputs, extract fields, and leverage Splunk's powerful search and analysis capabilities.
 
-Splunk is a versatile and robust tool that plays a vital role in enhancing cybersecurity and operational visibility by providing real-time insights into your data.
+![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image4.png?raw=true)
+
+1. Set source type
+![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image5.png?raw=true)
+2. Host field value
+![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image6.png?raw=true)
+3. New index name
+![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image7.png?raw=true)
+4. Review
+![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image8.png?raw=true)
+
+## Search for Data in Splunk
+
+- Search by UserName
+![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image9.png?raw=true)
+- Search by Source_ip
+![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image10.png?raw=true)
+- Search by Source_Country except one
+![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image11.png?raw=true)
+
+
