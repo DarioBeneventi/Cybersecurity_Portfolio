@@ -44,13 +44,21 @@ To begin using Splunk effectively, you can start by adding data to your instance
 ![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image4.png?raw=true)
 
 1. Set source type
+   
 ![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image5.png?raw=true)
+
 2. Host field value
+   
 ![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image6.png?raw=true)
+
 3. New index name
+   
 ![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image7.png?raw=true)
+
 4. Review
+   
 ![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image8.png?raw=true)
+
 ## Search for Data in Splunk
 
 - Search by UserName
