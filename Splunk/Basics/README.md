@@ -42,3 +42,21 @@ In the middle of the Dashboard, you'll find the "Explore Splunk" section, which 
 To begin using Splunk effectively, you can start by adding data to your instance. You can do this by clicking on the "Add Data" option in the middle of your Dashboard. This process allows you to configure data inputs, extract fields, and leverage Splunk's powerful search and analysis capabilities.
 
 ![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image4.png?raw=true)
+
+1. Set source type
+![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image5.png?raw=true)
+2. Host field value
+![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image6.png?raw=true)
+3. New index name
+![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image7.png?raw=true)
+4. Review
+![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image8.png?raw=true)
+## Search for Data in Splunk
+
+- Search by UserName
+![alt text](https://github.com/DarioBeneventi/Cybersecurity_Portfolio/blob/main/Splunk/Basics/images/image9.png?raw=true)
+- Search by Source_ip
+
+- 
+
+
