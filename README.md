@@ -18,3 +18,4 @@ Other repositories that i created and should be included in my cybersecurity por
 
 [My TryHackMe Profile](https://tryhackme.com/p/BeaX) <br>
 [My HTB Profile](https://app.hackthebox.com/profile/182315)
+<script src="https://tryhackme.com/badge/234763"></script>
